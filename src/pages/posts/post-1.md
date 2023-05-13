@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: "Test post"
 pubDate: 2023-05-11
 description: "test"
